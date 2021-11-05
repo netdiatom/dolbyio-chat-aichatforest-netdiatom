@@ -7,8 +7,8 @@ import {
 
 // Enter your credentials from Dolby.io here:
 // https://dolby.io/dashboard/applications/summary
-const consumerKey = 'xq3n1wrg-DsvhbzBnsYqVA==';
-const consumerSecret = 'YiTjQv6sA6Pl4D-9ua2XHT26n1gg5TZNx7WlKT6jIHw=>';
+const consumerKey = '<xq3n1wrg-DsvhbzBnsYqVA==>';
+const consumerSecret = '<YiTjQv6sA6Pl4D-9ua2XHT26n1gg5TZNx7WlKT6jIHw=>';
 
 initialize(consumerKey, consumerSecret);
 
