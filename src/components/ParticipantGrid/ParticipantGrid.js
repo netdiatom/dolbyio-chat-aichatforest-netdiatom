@@ -129,7 +129,7 @@ export default function ParticipantGrid({ isLoaded }) {
         />
       );
     } else {
-      return <div>Video not loaded yet</div>;
+      return <div>Video not loaded yet oops</div>;
     }
   });
 
@@ -140,6 +140,6 @@ export default function ParticipantGrid({ isLoaded }) {
       </div>
     );
   } else {
-    return <div>Loading Video...</div>;
+    return <div>Loading Aichatforest Video feed...</div>;
   }
 }
