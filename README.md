@@ -1,6 +1,7 @@
-# Dolby.io Generic Meeting App
+# Aichatforest basic chat utility- uses dolby.io sample repository
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was deployed using netlify
 
 ## Cloning the Repository
 
