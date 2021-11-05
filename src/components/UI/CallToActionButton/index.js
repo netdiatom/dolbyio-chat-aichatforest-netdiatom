@@ -5,11 +5,11 @@ export const CallToActionButton = () => (
       Feeling inspired? Customize your <br /> own Dolby.io meeting experience!
     </div>
     <a
-      href="https://docs.dolby.io/communications-apis/docs/generic-meeting"
+      href="https://www.aichatforest.com"
       target="_blank"
       rel="noreferrer"
     >
-      <button className="cta-button">Get Started</button>
+      <button className="cta-button">Back To Aichatforest</button>
     </a>
   </div>
 );
