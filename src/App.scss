@@ -4,7 +4,7 @@
   display: flex;
   height: 100%;
   flex-flow: column;
-  background: url(https://res.cloudinary.com/net-diatom-lp/image/upload/v1636142572/chicago_g6qxgx.jpg); // non transparent for standalone app
+  background: url('https://res.cloudinary.com/net-diatom-lp/image/upload/v1636142572/chicago_g6qxgx.jpg'); // non transparent for standalone app
 
   .utility-bar {
     background-color: $primary-dark-3;
