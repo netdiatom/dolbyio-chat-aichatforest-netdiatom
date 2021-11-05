@@ -73,7 +73,7 @@ export default function MediaSelectors() {
         className="link-copied-tooltip"
         style={{ opacity: isLinkCopied ? 1 : 0 }}
       >
-        Location URL Copied to Clipboard
+        Aichatforest URL Copied to Clipboard!
       </div>
       <div className="app-controls__button" onClick={handleClick}>
         <SettingsIcon
