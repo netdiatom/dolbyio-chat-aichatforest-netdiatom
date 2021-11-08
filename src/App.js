@@ -37,7 +37,7 @@ function App() {
       <div className="container">
         <div className="top">
           <div className="location-id">
-            Location No. {locationIdForPresentation}
+            Forest Chat Identity {locationIdForPresentation}
           </div>
           <div className="location-time">
             <LocationTime />
