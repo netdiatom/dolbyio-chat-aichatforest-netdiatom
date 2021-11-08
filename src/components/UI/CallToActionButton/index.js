@@ -3,7 +3,7 @@ export const CallToActionButton = () => (
   <div className="call-to-action-button">
     <div className="cta-text">
       
-  Thanks for trying aichatforest.com <br /> Ready to try another app type?
+  Welcome to the forest <br /> Ready to leave this experience?
     </div>
     <a
       href="https://www.aichatforest.com"
