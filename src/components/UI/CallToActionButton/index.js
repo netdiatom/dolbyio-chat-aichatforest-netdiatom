@@ -1,4 +1,4 @@
-import './CallToActionButton.scss';
+Experimport './CallToActionButton.scss';
 export const CallToActionButton = () => (
   <div className="call-to-action-button">
     <div className="cta-text">
@@ -10,7 +10,7 @@ export const CallToActionButton = () => (
       target="_blank"
       rel="noreferrer"
     >
-      <button className="cta-button">Back To Aichatforest</button>
+      <button className="cta-button">Leave Experience</button>
     </a>
   </div>
 );
