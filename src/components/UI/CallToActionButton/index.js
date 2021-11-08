@@ -1,4 +1,4 @@
-Experimport './CallToActionButton.scss';
+import './CallToActionButton.scss';
 export const CallToActionButton = () => (
   <div className="call-to-action-button">
     <div className="cta-text">
