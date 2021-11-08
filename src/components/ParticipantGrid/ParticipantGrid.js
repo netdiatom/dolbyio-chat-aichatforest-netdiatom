@@ -140,6 +140,6 @@ export default function ParticipantGrid({ isLoaded }) {
       </div>
     );
   } else {
-    return <div>Loading Aichatforest Video feed...</div>;
+    return <div>Growing your forest...<br>..planting seeds...<br>...adding water..</div>;
   }
 }
