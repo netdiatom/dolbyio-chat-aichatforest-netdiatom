@@ -7,4 +7,4 @@ This project was deployed using netlify
 
 ## Running the Application
 
-Go to aichatforest.com to run the app
+Go to aichatforest.com to run the app. You can access it here <h1> https://www.www.aichatforest.com </h1>
