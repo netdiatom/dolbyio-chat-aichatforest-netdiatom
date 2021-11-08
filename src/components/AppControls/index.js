@@ -16,7 +16,7 @@ import '../UI/MediaSelectors/MediaSelectors.scss';
 import './AppControls.scss';
 
 export const AppControls = () => {
-  const [isUserVideoActive, setIsUserVideoActive] = useState(false);
+  const [isUserVideoActive, setIsUserVideoActive] = useState(true);
   const [isUserAudioActive, setIsUserAudioActive] = useState(true);
   // event handlers
   const handleVideoButton = useCallback(({ isStart }) => {
