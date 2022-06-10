@@ -140,6 +140,6 @@ export default function ParticipantGrid({ isLoaded }) {
       </div>
     );
   } else {
-    return <div>Growing your forest....planting seeds.....adding water..</div>;
+    return <div>Net Diatom is loading your video..</div>;
   }
 }
